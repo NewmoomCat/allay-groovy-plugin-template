@@ -7,16 +7,17 @@ import org.allaymc.api.plugin.Plugin
 public class GroovyPlugin extends Plugin{
     @Override
     public void onLoad() {
-        log.info("GroovyPluginTemplate loaded!")
+        pluginLogger.info("GroovyPluginTemplate loaded!")
     }
 
     @Override
     public void onEnable() {
-        log.info("GroovyPluginTemplate enabled!")
+        pluginLogger.info("GroovyPluginTemplate enabled!")
     }
 
     @Override
     public void onDisable() {
-        log.info("GroovyPluginTemplate disabled!")
+        pluginLogger.info("GroovyPluginTemplate disabled!")
     }
 }
+
