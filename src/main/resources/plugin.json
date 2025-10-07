@@ -1,6 +1,6 @@
 {
   "entrance": "org.allaymc.groovyplugintemplate.GroovyPlugin",
   "name": "GroovyPluginTemplate",
-  "author": ["YourNameHere"],
+  "authors": ["YourNameHere"],
   "version": "0.1.0"
 }
